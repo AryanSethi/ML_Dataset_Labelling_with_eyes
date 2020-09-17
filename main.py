@@ -20,7 +20,7 @@ while(running):
             cv2.rectangle(roi_color, (ex,ey),(ex+ew,ey+eh),(0,0,255),1)
             eye_roi= roi_gray[ey:ey+eh,ex:ex+ew]
             if(k%3==0):
-                image_name= f'data/right/{str(k)}.jpg'
+                image_name= f'data/more left/{str(k)}.jpg'  #"more right" and "more left" to increase the dataset
                 cv2.imwrite(image_name,eye_roi)
             k=k+1
 
