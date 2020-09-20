@@ -8,7 +8,7 @@ I know, but for people like me who want to experiment things by themselves, we h
 
 This is just to attempt to help those people who won't just let it go without trying it out themselves.
 
-##Idea
+## Idea
 I'm trying to develope a python based Machine learning based GUI (I made my dataset myself :p) that will help you arrange your image data and separate it using your eyes.
 For example, let's say I'm trying to make a classification model that will classify images of cats and dogs. Well obivously I'll first have to create separate directories containing Cat images
 and dog images. So from a mixture of images containing both Cat and Dog images, I'll simply use my eye movements to put those unshuffled images into their respective directories. Move your eyes towards
