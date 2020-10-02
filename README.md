@@ -14,3 +14,5 @@ For example, let's say I'm trying to make a classification model that will class
 and dog images. So from a mixture of images containing both Cat and Dog images, I'll simply use my eye movements to put those unshuffled images into their respective directories. Move your eyes towards
 left if its a cat and right if its a dog or however you like it.
 
+![example](https://github.com/AryanSethi/ML_Dataset_Labelling_with_eyes/blob/master/eg.png)
+
